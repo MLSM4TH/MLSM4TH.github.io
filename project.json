@@ -1,0 +1,38 @@
+[
+  {
+    "title": "2023–2024",
+    "yearHeader": true
+  },
+  {
+    "title": "Project System",
+    "description": "A Java-based project management system built for coursework.",
+    "tech": "Java, MySQL",
+    "repo": "https://github.com/aritrabiswas2004/project-system"
+  },
+  {
+    "title": "NBA App",
+    "description": "An NBA statistics and player tracking app with interactive data visualization.",
+    "tech": "React, Node.js, API Integration",
+    "repo": "https://github.com/JimmyTithphit/NBAapp"
+  },
+
+  {
+    "title": "2024–2025",
+    "yearHeader": true
+  },
+  {
+    "title": "Weather App",
+    "description": "Weather forecasting app with live data and responsive UI.",
+    "tech": "JavaScript, HTML, CSS, OpenWeather API",
+    "repo": "https://github.com/MLSM4TH/weatherapp"
+  },
+  {
+    "title": "Roless (Full Project)",
+    "description": "A collaborative role and permissions management system with front-end and back-end integration.",
+    "tech": "React, Node.js, Express, MongoDB",
+    "repos": [
+      "https://github.com/MLSM4TH/roless_front_end",
+      "https://github.com/MadiT04/Roless"
+    ]
+  }
+]
